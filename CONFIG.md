@@ -1,23 +1,19 @@
 
 # recordName
 
-emotional-support-pets
+bud-light-appreciation
 
 # displayName
 
-Emotional Support Pets
+Bud Light Skeets
 
 # description
 
-Cute animals feed
+Skeets that mention Bud Light
 
 # searchTerms
 
-- cats
-- dogs
-- penguins
-- red pandas
-- quokkas
+- bud light
 
 # avatar
 
