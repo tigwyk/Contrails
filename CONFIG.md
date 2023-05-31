@@ -17,4 +17,4 @@ Skeets that mention Bud Light
 
 # avatar
 
-![](budlight_bottles.png)
+![](budlight_bottles.jpg)
