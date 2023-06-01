@@ -1,19 +1,19 @@
 
 # recordName
 
-budlight-skeets
+coffee-skeets
 
 # displayName
 
-Bud Light Skeets
+coffee Skeets
 
 # description
 
-Skeets that mention Bud Light
+Skeets that mention coffee
 
 # searchTerms
 
-- bud light
+- coffee
 
 # avatar
 
