@@ -5,7 +5,7 @@ coffee-skeets
 
 # displayName
 
-coffee Skeets
+Coffee Skeets
 
 # description
 
