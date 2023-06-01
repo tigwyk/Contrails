@@ -15,6 +15,7 @@ env:
 jobs:
   check_cloudflare_api_token:
     runs-on: ubuntu-latest
+    environment: coffee
     name: Has Secret CLOUDFLARE_API_TOKEN
     steps:
       - run: |
