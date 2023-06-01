@@ -15,6 +15,7 @@ env:
 jobs:
   publish_feed_generator:
     runs-on: ubuntu-latest
+    environment: coffee
     name: Publish Feed
     steps:
       - name: Get Cloudflare Worker Subdomain
