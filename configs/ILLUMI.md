@@ -21,7 +21,7 @@ illumi is life
 
 > This is the description of the feed.
 
-Skeets re: illumi (mentions, originals, reskeets)
+Every mention of @illumi.me
 
 # searchTerms
 
