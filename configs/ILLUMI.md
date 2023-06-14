@@ -36,4 +36,4 @@ Skeets re: illumi (mentions, originals, reskeets)
 
 > This must link to an image (PNG or JPEG) in the same directory as this CONFIG.md. It doesn't have to be called `avatar2.png`, but just be sure this CONFIG.md points to the correct file.
 
-![](illumi.png)
+![](illumi_smaller.png)
