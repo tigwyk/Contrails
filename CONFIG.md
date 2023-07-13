@@ -25,11 +25,8 @@ A feed for all things horror
 > - Keywords (maximum 5 terms): Test these in [https://bsky.app/search](https://bsky.app/search). `AND` is implicit, so `cat dog` on one line will require both `cat` and `dog`. You can use quotes as well `"hot dog"`.
 >
 
-- horror game
-- horror film
-- horror movie
-- horror novel
-- horror book
+- "FUCK THE VIBE IF MY BLACK FRIENDS CANT VIBE TOO"
+- "WE KEEP GOING"
 
 # avatar
 
