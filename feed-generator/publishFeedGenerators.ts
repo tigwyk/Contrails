@@ -13,6 +13,7 @@ const publishAll = async () => {
   await agent.login({ identifier: handle, password })
 
   try {
+    console.log(`Attempting to login to Bluesky... ${agent}`)
     await agent.api.app.bsky.feed.describeFeedGenerator()
   } catch (err) {
     throw new Error(
