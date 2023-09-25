@@ -196,7 +196,7 @@ def main():
     paths = ["CONFIG.md"] + glob.glob("configs/*.md")
     for path in paths:
         if os.path.exists(path):
-            with open(path, "r") as f:
+            with open(path, "r",encoding="utf-8") as f:
                 config = parse_config(os.path.dirname(path), f.read())
                 configs[config["recordName"]] = config
 
