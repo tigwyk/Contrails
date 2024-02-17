@@ -17,6 +17,13 @@ Emotional Support Pets
 
 Cute animals feed
 
+
+# isEnabled
+
+> Whether this feed should be published by the "Publish Feed Generators" step. Set to `true` or `false`.
+
+false
+
 # searchTerms
 
 > There are three types of search terms:
