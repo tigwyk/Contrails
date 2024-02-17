@@ -9,7 +9,7 @@ illumi-illumi
 
 > Whether this feed should be published by the "Publish Feed Generators" step. Set to `true` or `false`.
 
-true
+false
 
 # displayName
 
