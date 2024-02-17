@@ -32,6 +32,13 @@ Posts about coffee
 
 - coffee
 
+# denyList
+
+> Deny list will exclude any results from a given user. You can provide the username or DID.
+>
+> - did:plc:1234
+> - @spamspamspam.bsky.social
+
 # safeMode
 
 > Safe mode limits the total number of API calls coming from Cloudflare.
