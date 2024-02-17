@@ -12,14 +12,6 @@ const run = async () => {
   const agent = new AtpAgent({ service: 'https://bsky.social' })
   await agent.login({ identifier: handle, password })
 
-  try {
-    await agent.api.app.bsky.feed.getFeedGenerators()
-  } catch (err) {
-    throw new Error(
-      err+'The bluesky server is not ready to accept published custom feeds yet',
-    )
-  }
-
   let record = {
     repo: agent.session?.did ?? '',
     collection: 'app.bsky.feed.generator',
