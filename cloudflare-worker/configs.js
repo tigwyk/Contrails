@@ -15,17 +15,6 @@ export const CONFIGS = {
     "avatar": "horror_avatar.png",
     "isEnabled": true
   },
-  "basketball-emoj": {
-    "recordName": "basketball-emoj",
-    "isEnabled": false,
-    "displayName": "Basketball Emojis",
-    "description": "Posts with \ud83c\udfc0",
-    "searchTerms": [
-      "\ud83c\udfc0"
-    ],
-    "safeMode": true,
-    "avatar": "configs\\avatar2.png"
-  },
   "bluesky-app": {
     "recordName": "bluesky-app",
     "isEnabled": false,
