@@ -13,7 +13,7 @@ const run = async () => {
   await agent.login({ identifier: handle, password })
 
   try {
-    await agent.api.app.bsky.feed.describeFeedGenerator()
+    await agent.api.app.bsky.feed.getFeedGenerator()
   } catch (err) {
     throw new Error(
       'The bluesky server is not ready to accept published custom feeds yet',
