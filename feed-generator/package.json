@@ -12,9 +12,9 @@
     "deleteFeedGenerator": "ts-node deleteFeedGenerator.ts"
   },
   "dependencies": {
-    "@atproto/api": "^0.3.7",
+    "@atproto/api": "^0.9.7",
     "@atproto/did-resolver": "^0.1.0",
-    "@atproto/lexicon": "^0.1.0",
+    "@atproto/lexicon": "^0.3.1",
     "@atproto/repo": "^0.1.0",
     "@atproto/uri": "^0.0.2",
     "@atproto/xrpc-server": "^0.2.0",
