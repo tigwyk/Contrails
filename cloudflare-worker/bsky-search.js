@@ -11,7 +11,7 @@ export async function searchPost(searchTerm, params) {
     urlParams.offset = params.offset;
   }
   let url =
-    "https://bsky.social/xrpc/app.bsky.feed.searchPosts?" + new URLSearchParams(urlParams);
+    "https://public.api.bsky.app/xrpc/app.bsky.feed.searchPosts?" + new URLSearchParams(urlParams);
   let response = await fetchGuarded(url);
   if (response !== null) {
     return response.json();
